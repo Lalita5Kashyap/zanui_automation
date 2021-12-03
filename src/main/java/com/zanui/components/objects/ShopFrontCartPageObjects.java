@@ -7,5 +7,5 @@ package com.zanui.components.objects;
  */
 
 public class ShopFrontCartPageObjects {
-	public static String checkoutButton = "xpath#//a[@data-behat='checkout']";
+	public static String checkoutButton = "xpath#//a[@data-behat='checkoutpage']";
 }
